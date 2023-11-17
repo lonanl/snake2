@@ -1,0 +1,7 @@
+{
+    "configurations": [
+        "name": "launch",
+        "type": "pwa-chrome",
+        
+    ]
+}
